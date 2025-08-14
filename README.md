@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 测试文档引用
+[cAi应用文档](ai_chat/RequirementDocs.md)

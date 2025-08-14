@@ -62,7 +62,7 @@ curl --location 'http://localhost:19998/api/zapp/auth/login' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "email":"383319845@qq.com",
-    "password": "danny893251*"
+    "password": "123123*"
 }'
 
 resp:
@@ -124,7 +124,7 @@ curl --location --request GET 'http://localhost:19998/api/zapp/user/get_info' \
 --header 'Authorization: ••••••' \
 --data-raw '{
     "email":"383319845@qq.com",
-    "password": "danny893251*"
+    "password": "123123123*"
 }'
 
 
