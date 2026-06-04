@@ -1,19 +1,26 @@
-## Hi there 👋
+# DannyFangjx
 
-<!--
-**DannyFangjx/DannyFangjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这里是我的 GitHub 主页，用来沉淀工程实践、技术思考和个人文档。
 
-Here are some ideas to get you started:
+## 文档目录
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 工程与架构
 
-# 测试文档引用
-[cAi应用文档](ai_chat/RequirementDocs.md)
+- [单体应用 vs 微服务：架构选型指南](docs/001_单体应用VS微服务.md)
+- [Go 代码规范与工程品味](docs/002_go代码规范.md)
+- [逻辑隔离](docs/003_逻辑隔离.md)
+- [业务都要分层](docs/004_业务都要分层.md)
+- [AI 时代的工程师](docs/005_AI时代的工程师)
+- [上线经验](docs/006_上线经验.md)
+
+### 业务与数据
+
+- [数据看板](docs/007_hj.md)
+
+### 阅读与思考
+
+- [反脆弱](docs/008_反脆弱.md)
+- [纳瓦尔访谈总结：人性的 44 个残酷真相](docs/009_纳瓦尔访谈.md)
+
+### 关于我
+
